@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roddy\\Desktop\\Proyects Idea\\VidClip\\Back-end\\BackEnd for the Deploy\\VidClip\\VidClip.Api\\VidClip.Api.csproj": {}
+    "C:\\Users\\roddy\\Documents\\Visual Studio 2022\\Dwald\\VidClip.Api\\VidClip.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roddy\\Desktop\\Proyects Idea\\VidClip\\Back-end\\BackEnd for the Deploy\\VidClip\\VidClip.Api\\VidClip.Api.csproj": {
+    "C:\\Users\\roddy\\Documents\\Visual Studio 2022\\Dwald\\VidClip.Api\\VidClip.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roddy\\Desktop\\Proyects Idea\\VidClip\\Back-end\\BackEnd for the Deploy\\VidClip\\VidClip.Api\\VidClip.Api.csproj",
+        "projectUniqueName": "C:\\Users\\roddy\\Documents\\Visual Studio 2022\\Dwald\\VidClip.Api\\VidClip.Api.csproj",
         "projectName": "VidClip.Api",
-        "projectPath": "C:\\Users\\roddy\\Desktop\\Proyects Idea\\VidClip\\Back-end\\BackEnd for the Deploy\\VidClip\\VidClip.Api\\VidClip.Api.csproj",
+        "projectPath": "C:\\Users\\roddy\\Documents\\Visual Studio 2022\\Dwald\\VidClip.Api\\VidClip.Api.csproj",
         "packagesPath": "C:\\Users\\roddy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roddy\\Desktop\\Proyects Idea\\VidClip\\Back-end\\BackEnd for the Deploy\\VidClip\\VidClip.Api\\obj\\",
+        "outputPath": "C:\\Users\\roddy\\Documents\\Visual Studio 2022\\Dwald\\VidClip.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

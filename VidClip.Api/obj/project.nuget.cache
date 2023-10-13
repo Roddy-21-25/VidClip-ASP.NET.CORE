@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3dnDPy+UyVI30mqk8fIJurvdjfl01aS2/sxgmGFRTjVkKs2DIayM+dgzzWgC4/QSZCktGPyPQtnqmILqDGqYKw==",
+  "dgSpecHash": "nbPWWiGtR9et57cfqb1OQ7l4DsE0PlghSju92Yu16kPMsnVl8yw4jZpPqk2/4PV89cnBFE1565rqOz37CHa1bQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\roddy\\Desktop\\Proyects Idea\\VidClip\\Back-end\\BackEnd for the Deploy\\VidClip\\VidClip.Api\\VidClip.Api.csproj",
+  "projectFilePath": "C:\\Users\\roddy\\Documents\\Visual Studio 2022\\Dwald\\VidClip.Api\\VidClip.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\roddy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\roddy\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
